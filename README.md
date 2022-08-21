@@ -32,3 +32,11 @@ Project aims to create parallax website.
         |----style.css   
         |----images
 ```
+
+### At the end of the project, following topics are to be covered;
+
++ HTML Form Elements
++ CSS Colors-Border Properties
++ CSS Margins-Padding
++ CSS Properties for Texts-Font Families-Links
++ Footer section plugin
