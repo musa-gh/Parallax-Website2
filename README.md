@@ -12,7 +12,7 @@
 
 
 <br>
-🔓📌 https://musa-gh.github.io/Parallax-Website2/
+🔓📌 <a href="https://musa-gh.github.io/Parallax-Website2/" target="_blank">Clikc Here To My Parallax</a>
 
 # Project--5 Parallax-2
 
